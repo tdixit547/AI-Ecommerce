@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 ApniDukaan serves millions of Indian consumers across categories like **Electronics**, **Fashion**, **Books**, **Home & Kitchen**, and **Sports**. This recommendation engine powers the _"Customers who viewed this also liked..."_ feature by analyzing product text attributes and finding similar items.
 
@@ -24,7 +24,7 @@ The engine uses a **content-based filtering** approach:
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 apni-dukaan-recommender/
@@ -42,7 +42,7 @@ apni-dukaan-recommender/
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### Run the Full Pipeline
 
@@ -96,7 +96,7 @@ python -m src.recommender
 
 ---
 
-## 📊 Example Output
+##  Example Output
 
 ```
 ══════════════════════════════════════════════════════════════════════════
@@ -119,7 +119,7 @@ python -m src.recommender
 
 ---
 
-## ✅ Evaluation Results
+##  Evaluation Results
 
 The evaluation suite (`evaluate.py`) runs **8 test cases**:
 
@@ -136,7 +136,7 @@ The evaluation suite (`evaluate.py`) runs **8 test cases**:
 
 ---
 
-## 🧠 Technical Details
+##  Technical Details
 
 ### Dataset
 - **300 products** across 5 categories and 25+ sub-categories
@@ -156,7 +156,7 @@ The evaluation suite (`evaluate.py`) runs **8 test cases**:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] **Collaborative Filtering** — Incorporate user purchase/browsing history for hybrid recommendations
 - [ ] **User Profiles** — Build user preference vectors based on interaction history
@@ -169,13 +169,13 @@ The evaluation suite (`evaluate.py`) runs **8 test cases**:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
